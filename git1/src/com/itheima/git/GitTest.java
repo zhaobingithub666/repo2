@@ -7,4 +7,8 @@ public class GitTest {
         System.out.println("22");
         System.out.println("22");
     }
+
+    public static void main(String[] args) {
+        System.out.println("sss");
+    }
 }
